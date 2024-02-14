@@ -4,5 +4,5 @@
 
 ## Features
 
-* Dragging mouse cursor with interval;
-* Pressing W, A, S or D key with interval.
+* **Dragging mouse cursor with interval;**
+* **Pressing W, A, S or D key with interval.**
